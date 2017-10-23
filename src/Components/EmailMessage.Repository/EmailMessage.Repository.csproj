@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmailService.Models\EmailService.Models.csproj" />
+    <ProjectReference Include="..\S3.Adapter\S3.Adapter.csproj" />
+    <ProjectReference Include="..\SQS.Adapater\SQS.Adapater.csproj" />
+  </ItemGroup>
+
+</Project>
