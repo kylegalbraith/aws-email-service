@@ -1,4 +1,6 @@
-# aws-email-service
+# aws-email-service 
+[![Build Status](https://travis-ci.org/kylegalbraith/aws-email-service.svg?branch=master)](https://travis-ci.org/kylegalbraith/aws-email-service)
+
 This project can be used to deliver email messages via one by one or via a SQS queue.
 There is multiple flows that can be used to deliver email messages, each described in more detail below.
 
