@@ -1,2 +1,7 @@
 language: csharp
 solution: src/aws-email-service.sln
+mono: none
+dotnet: 2.0.2
+dist: trusty
+script:
+ - dotnet restore
