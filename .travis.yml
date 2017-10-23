@@ -5,3 +5,4 @@ dotnet: 2.0.0
 dist: trusty
 script:
  - dotnet restore src/aws-email-service.sln
+ - dotnet build src/aws-email-service.sln
