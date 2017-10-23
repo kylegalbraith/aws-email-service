@@ -48,3 +48,5 @@ Temporary Items
 /.vs
 bin/
 obj/
+src/.vs/aws-email-service/v15/.suo
+src/.vs/aws-email-service/v15/sqlite3/storage.ide
